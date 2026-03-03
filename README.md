@@ -3,8 +3,7 @@
 Interactive Tableau dashboard exploring how product quality metrics (defect rates, return rates, customer satisfaction scores) influence shipping costs, delivery times, carrier performance, and overall logistics expenses.
 
 ## Live Dashboard
-👉 [Open in Tableau Public]([https://public.tableau.com/views/Quality_analysis_to_shipping_cost/Dashboard1](https://public.tableau.com/app/profile/aziawung.aime.nguji/viz/Quality_analysis_to_shipping_cost/ShippingCosts))
-
+👉 https://public.tableau.com/app/profile/aziawung.aime.nguji/viz/Quality_analysis_to_shipping_cost/ShippingCosts
 ## Key views / insights
 - Quality score vs average shipping cost by product category
 - Correlation between defect rate and shipping delays / extra fees
